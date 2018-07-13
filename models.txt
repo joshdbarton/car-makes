@@ -1,0 +1,8 @@
+T=Rav4
+N=Altima
+N=Sentra
+F=F150
+T=Camry
+F=Focus
+C=Silverado
+C=Tahoe
